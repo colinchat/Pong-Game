@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCC Pong", "PCC Challenge - Pong by Colin Chatfield\PCC Pong.csproj", "{10E0A025-75A7-4845-98D7-F140669010E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCC Pong.UnitTests", "PCC.UnitTests\PCC Pong.UnitTests.csproj", "{E6E47A8C-73A9-4454-AB55-23CFF553F73A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10E0A025-75A7-4845-98D7-F140669010E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E0A025-75A7-4845-98D7-F140669010E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E0A025-75A7-4845-98D7-F140669010E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E0A025-75A7-4845-98D7-F140669010E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6E47A8C-73A9-4454-AB55-23CFF553F73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6E47A8C-73A9-4454-AB55-23CFF553F73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6E47A8C-73A9-4454-AB55-23CFF553F73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6E47A8C-73A9-4454-AB55-23CFF553F73A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9EF6C58-16D1-4251-8A6B-8FA06C8CDE7A}
+	EndGlobalSection
+EndGlobal
