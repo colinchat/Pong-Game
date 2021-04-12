@@ -1,7 +1,7 @@
 # Pong-Game
-By Colin Chatfield
-Visual Studio 2019 /  C# /  Windows Forms App / .NET Framework
-Done to practice object oriented programming and unit testing. 
+By Colin Chatfield  
+Visual Studio 2019 /  C# /  Windows Forms App / .NET Framework  
+Done to practice object oriented programming and unit testing.
 
 ## Features:
 - multiplayer
